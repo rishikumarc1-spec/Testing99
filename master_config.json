@@ -452,11 +452,11 @@
 "generalenglish_app": {
     "is_ads_on": true,
     "click_limit": 10,
-    "banner_id": "ca-app-pub-1111815163359529/9355146776",
-    "inter_id": "ca-app-pub-1111815163359529/8069985268",
-    "native_id": "ca-app-pub-1111815163359529/9243784406",
+    "banner_id": "ca-app-pub-1111815163359529/1564262252",
+    "inter_id": "ca-app-pub-1111815163359529/2390258763",
+    "native_id": "ca-app-pub-1111815163359529/3765141769",
     "youtube_url": "https://youtube.com/@chhokeracademy",
-    "telegram_url": "https://t.me/chhokerEnglishspeakingcourse",
-    "main_url": "https://chhokerapp.web.app
-}
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/App1.html"
+  }
 }
