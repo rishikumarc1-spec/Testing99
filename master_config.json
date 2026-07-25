@@ -1,0 +1,460 @@
+{
+  "railway_app": {
+    "is_ads_on": true,
+    "click_limit": 6,
+    "banner_id": "ca-app-pub-3940256099942544/9214589741",
+    "inter_id": "ca-app-pub-3940256099942544/1033173712",
+    "native_id": "ca-app-pub-3940256099942544/2247696110",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://app.objectivequestions.in/wp-content/uploads/NCERT-MCQ-App.html"
+  },
+"upgk_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/3042506943",
+    "inter_id": "ca-app-pub-1111815163359529/4941911976",
+    "native_id": "ca-app-pub-1111815163359529/1581831558",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Upgk.html"
+  },  
+  "haryanagk_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/6388625518",
+    "inter_id": "ca-app-pub-1111815163359529/6987105902",
+    "native_id": "ca-app-pub-1111815163359529/9971758783",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Hrgk.html"
+  },  
+"ncert_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/9577087133",
+    "inter_id": "ca-app-pub-1111815163359529/8264005461",
+    "native_id": "ca-app-pub-1111815163359529/3779823327",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/NCERT.html"
+  },    
+"rajasthangk_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/6201353480",
+    "inter_id": "ca-app-pub-1111815163359529/4505128438",
+    "native_id": "ca-app-pub-1111815163359529/7915042282",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Rajasthan.html"
+  },    
+"bihargk_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/3792250320",
+    "inter_id": "ca-app-pub-1111815163359529/8853005310",
+    "native_id": "ca-app-pub-1111815163359529/9999678944",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Bihar.html"
+  },    
+"computer_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/4944367668",
+    "inter_id": "ca-app-pub-1111815163359529/8222758388",
+    "native_id": "ca-app-pub-1111815163359529/9768578809",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Computer.html"
+  },      
+"agriculturegk_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/7969704727",
+    "inter_id": "ca-app-pub-1111815163359529/3455744644",
+    "native_id": "ca-app-pub-1111815163359529/9338437618",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Agriculture.html"
+  },      
+"mpgk_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/7192417209",
+    "inter_id": "ca-app-pub-1111815163359529/1940090524",
+    "native_id": "ca-app-pub-1111815163359529/7196292336",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/MadhyaPradesh.html"
+  },      
+ "ncertscience_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/4508524487",
+    "inter_id": "ca-app-pub-1111815163359529/1555058086",
+    "native_id": "ca-app-pub-1111815163359529/2614081310",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/ncertscience.html"
+  },   
+ "currentaffairsgk_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/7673951165",
+    "inter_id": "ca-app-pub-1111815163359529/3734706150",
+    "native_id": "ca-app-pub-1111815163359529/5105026949",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/CurrentAffairs.html"
+  },   
+ "science_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/1695462141",
+    "inter_id": "ca-app-pub-1111815163359529/9184221301",
+    "native_id": "ca-app-pub-1111815163359529/8474247814",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Science.html"
+  },   
+"biologygk_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/1068443350",
+    "inter_id": "ca-app-pub-1111815163359529/2189953335",
+    "native_id": "ca-app-pub-1111815163359529/7039577333",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Biologygk.html"
+  },     
+"chemistrygk_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/3342782472",
+    "inter_id": "ca-app-pub-1111815163359529/9716619134",
+    "native_id": "ca-app-pub-1111815163359529/4725207517",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Chemistrygk.html"
+  },     
+"chhattisgarh_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/5201777137",
+    "inter_id": "ca-app-pub-1111815163359529/2575613793",
+    "native_id": "ca-app-pub-1111815163359529/7457276087",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Chhattisgarh.html"
+  },       
+"ctet_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/3801734275",
+    "inter_id": "ca-app-pub-1111815163359529/1151520205",
+    "native_id": "ca-app-pub-1111815163359529/4619991923",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Ctet.html"
+  },        
+"upsi_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/5515494983",
+    "inter_id": "ca-app-pub-1111815163359529/6940257295",
+    "native_id": "ca-app-pub-1111815163359529/8799585137",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Upsi.html"
+  },          
+"worldgeography_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/9567349128",
+    "inter_id": "ca-app-pub-1111815163359529/6940257295",
+    "native_id": "ca-app-pub-1111815163359529/8799585137",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/WorldGeography.html"
+  },        
+"history_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/5041952190",
+    "inter_id": "ca-app-pub-1111815163359529/2415788857",
+    "native_id": "ca-app-pub-1111815163359529/9332351143",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/History.html"
+  },        
+"historygk_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/5981584331",
+    "inter_id": "ca-app-pub-1111815163359529/1850767635",
+    "native_id": "ca-app-pub-1111815163359529/3512198192",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Historygk.html"
+  },      
+"geography_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/3085043397",
+    "inter_id": "ca-app-pub-1111815163359529/6832716718",
+    "native_id": "ca-app-pub-1111815163359529/3121315955",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Geography.html"
+  },      
+"polity_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/1408437909",
+    "inter_id": "ca-app-pub-1111815163359529/8903784549",
+    "native_id": "ca-app-pub-1111815163359529/4717468653",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Polity.html"
+  },        
+"uttarakhand_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/6705401233",
+    "inter_id": "ca-app-pub-1111815163359529/9962119964",
+    "native_id": "ca-app-pub-1111815163359529/2152112542",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Uttarakhand.html"
+  },    
+"sscgk_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/2534139787",
+    "inter_id": "ca-app-pub-1111815163359529/9959481461",
+    "native_id": "ca-app-pub-1111815163359529/8334377517",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Sscgk.html"
+  },    
+"sscmath_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/1275335029",
+    "inter_id": "ca-app-pub-1111815163359529/2642943938",
+    "native_id": "ca-app-pub-1111815163359529/5908327059",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Sscmath.html"
+  },    
+"hindi_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/8157585602",
+    "inter_id": "ca-app-pub-1111815163359529/9386906794",
+    "native_id": "ca-app-pub-1111815163359529/9731219664",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Hindi.html"
+  },    
+"computergk_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/3961729572",
+    "inter_id": "ca-app-pub-1111815163359529/7406150561",
+    "native_id": "ca-app-pub-1111815163359529/2800330877",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Computergk.html"
+  },    
+"delhipolicegk_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/7475690757",
+    "inter_id": "ca-app-pub-1111815163359529/9219145123",
+    "native_id": "ca-app-pub-1111815163359529/3324759269",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Delhipolicegk.html"
+  },    
+"economicsgk_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/6507503103",
+    "inter_id": "ca-app-pub-1111815163359529/3881339760",
+    "native_id": "ca-app-pub-1111815163359529/9562864553",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Economicsgk.html"
+  },    
+"haryanadis_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/1266804198",
+    "inter_id": "ca-app-pub-1111815163359529/8689519714",
+    "native_id": "ca-app-pub-1111815163359529/3203401962",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/HaryanaDis.html"
+  },         
+"ssccgl_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/2068831505",
+    "inter_id": "ca-app-pub-1111815163359529/5382224704",
+    "native_id": "ca-app-pub-1111815163359529/2837404603",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Ssccgl.html"
+  },         
+"rrbreasoning_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/8157585602",
+    "inter_id": "ca-app-pub-1111815163359529/9386906794",
+    "native_id": "ca-app-pub-1111815163359529/5397578201",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/RRBreasoning.html"
+  },         
+"rrbmath_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/7981083838",
+    "inter_id": "ca-app-pub-1111815163359529/7918868683",
+    "native_id": "ca-app-pub-1111815163359529/7691950508",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/RRBmath.html"
+  },         
+"himachal_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/9752949280",
+    "inter_id": "ca-app-pub-1111815163359529/6475021580",
+    "native_id": "ca-app-pub-1111815163359529/5501132942",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Himachal.html"
+  },         
+"physics_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/5411098765",
+    "inter_id": "ca-app-pub-1111815163359529/9358082636",
+    "native_id": "ca-app-pub-1111815163359529/9510630338",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Physics.html"
+  },         
+"railwaygk_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/9374443746",
+    "inter_id": "ca-app-pub-1111815163359529/3076067622",
+    "native_id": "ca-app-pub-1111815163359529/5158415809",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/RailwayGK.html"
+  },         
+"rajgk_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/6416545678",
+    "inter_id": "ca-app-pub-1111815163359529/7538055656",
+    "native_id": "ca-app-pub-1111815163359529/4289554248",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/RajasthanGK.html"
+  },         
+"sciencegk_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "inter_id": "ca-app-pub-3940256099942544/1033173712",
+    "native_id": "ca-app-pub-3940256099942544/2247696110",
+    "youtube_url": "https://www.cricbuzz.com/",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/ScienceGK.html"
+  },         
+"sportsgk_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/6800926159",
+    "inter_id": "ca-app-pub-1111815163359529/7237515200",
+    "native_id": "ca-app-pub-1111815163359529/5039529134",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/SportsGK.html"
+  },         
+"sscenglish_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/5616808165",
+    "inter_id": "ca-app-pub-1111815163359529/9364481487",
+    "native_id": "ca-app-pub-1111815163359529/2841844852",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/SscEnglish.html"
+  },         
+"sscmathtrick_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/6382329613",
+    "inter_id": "ca-app-pub-1111815163359529/7503839598",
+    "native_id": "ca-app-pub-1111815163359529/9624807251",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Sscmathtrick.html"
+  },         
+"sscreasoning_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/3735566429",
+    "inter_id": "ca-app-pub-1111815163359529/5561985116",
+    "native_id": "ca-app-pub-1111815163359529/5721221268",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Sscreasoning.html"
+  },         
+"indiagk_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/2183194417",
+    "inter_id": "ca-app-pub-1111815163359529/1991622723",
+    "native_id": "ca-app-pub-1111815163359529/9662324523",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/rojgarwithchhoker",
+    "main_url": "https://chhokerapp.web.app/Indiagk.html"
+  },         
+"englishspoken_app": {
+    "is_ads_on": true,
+    "click_limit": 14,
+    "banner_id": "ca-app-pub-1111815163359529/5477991226",
+    "inter_id": "ca-app-pub-1111815163359529/3589414233",
+    "native_id": "ca-app-pub-1111815163359529/3438905604",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/chhokerEnglishspeakingcourse",
+    "main_url": "https://chhokerapp.web.app/Spoken.html"
+  },      
+"jharkhand_app": {
+    "is_ads_on": true,
+    "click_limit": 10,
+    "banner_id": "ca-app-pub-1111815163359529/4528081526",
+    "inter_id": "ca-app-pub-1111815163359529/9392319998",
+    "native_id": "ca-app-pub-1111815163359529/5923848277",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/chhokerEnglishspeakingcourse",
+    "main_url": "https://chhokerapp.web.app/jharkhandgk.html"
+  },      
+"generalenglish_app": {
+    "is_ads_on": true,
+    "click_limit": 10,
+    "banner_id": "ca-app-pub-1111815163359529/9355146776",
+    "inter_id": "ca-app-pub-1111815163359529/8069985268",
+    "native_id": "ca-app-pub-1111815163359529/9243784406",
+    "youtube_url": "https://youtube.com/@chhokeracademy",
+    "telegram_url": "https://t.me/chhokerEnglishspeakingcourse",
+    "main_url": "https://chhokerapp.web.app
